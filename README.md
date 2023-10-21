@@ -1,2 +1,2 @@
 # EVMP
-A simple mod-pack featuring Vampirism
+A simple mod-pack featuring vampires
